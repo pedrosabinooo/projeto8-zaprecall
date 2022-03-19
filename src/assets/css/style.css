@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+.root {
+  background-color: #FB6B6B;
+  width: 100vw;
+  height: 100vh;
+}
+
