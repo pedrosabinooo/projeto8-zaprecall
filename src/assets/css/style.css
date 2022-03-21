@@ -21,18 +21,18 @@
   position: relative;
 }
 
-.home {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 2;
-}
-
-.flashcards-screen {
+.Home {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   z-index: 1;
+}
+
+.Deck {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
 }
