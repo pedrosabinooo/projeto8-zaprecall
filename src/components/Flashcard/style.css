@@ -1,0 +1,13 @@
+.card-number {
+  width: 300px;
+  height: 65px;
+  background: #ffffff;
+  box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+
+.card-chosen {
+  background: #ffffd5;
+  box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
